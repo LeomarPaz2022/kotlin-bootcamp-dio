@@ -1,5 +1,5 @@
 # kotlin bootcamp dio
-Armazenar os desafios de código realizados durante o bootcamp 
+Armazenar o progresso de aprendizagem durante o bootcamp
 
 
 <h2>Primeiros Passos </h2>
